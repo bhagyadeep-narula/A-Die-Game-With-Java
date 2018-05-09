@@ -10,7 +10,7 @@ A Die Game Made With Java ( An Assignment of My Course )
        public void rollDie() // Generate a random value for die
        public void displayDie() // Displays the value of die
        public int getValue() // Returns value of die
-# 3. Game class  This class contains the logic of die betting Game
+# 3. Game class // This class contains the logic of die betting Game
        private int potAmount // holds the value of the pot
        private int betAmount // holds the bet value
        private String betType  // holds the bet type
